@@ -1,6 +1,10 @@
 # wswp
 Web Scraping with Python
 
+[书主页](http://www.pythonscraping.com/)
+
+[原作者代码路径](https://github.com/REMitchell/python-scraping)
+
 ## 使用前的准备安装Beautiful Soup
 
 [参考http://cuiqingcai.com/1319.html](http://cuiqingcai.com/1319.html)
