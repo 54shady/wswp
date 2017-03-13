@@ -30,3 +30,5 @@ print(soup.head)
 print(soup.title)
 print(soup.h1)
 print(soup.div)
+
+# vim: tabstop=4 expandtab shiftwidth=4 softtabstop=4
